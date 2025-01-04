@@ -199,7 +199,7 @@ export default function Home() {
 
      <div className=" w-11/12 m-auto">
       <Image 
-      className="relative left-28 -top-12 -z-10"
+      className="relative left-16 -top-12 -z-10"
       src={DashboardPreview} 
       alt="Dashboard"
             sizes="100vw"
