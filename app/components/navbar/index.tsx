@@ -91,7 +91,7 @@ export function Navbar() {
                 </NavigationMenuItem> */}
                 <NavigationMenuItem key={"logo"}>
                     <NavigationMenuLink className={""}>
-                        <LinearAppIcon size={16} height={16} />
+                        <LinearAppIcon size={60} height={16} />
                     </NavigationMenuLink>
                 </NavigationMenuItem>
 

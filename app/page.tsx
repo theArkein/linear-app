@@ -350,7 +350,7 @@ export default function Home() {
       <div  className="bg-neutral-900 mt-20">
         <div className="flex justify-between max-w-screen-lg mx-auto py-20">
           <div>
-            <LinearAppIcon size={16} height={16} />
+            <LinearAppIcon size={60} height={16} />
           </div>
           {footerMenus.map((menu, index) => (
             <div key={index} className="flex flex-col gap-4 pt-0 p-8">
